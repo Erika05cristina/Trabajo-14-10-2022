@@ -67,5 +67,7 @@ public class SaquicelaSarmientoVillaAutos {
         System.out.println("-Los años de vida de su auto es: " + auto3.calcularEdad(2022));
         System.out.println("-Tiene seguro: " + auto3.sePuedeAsegurar());
         System.out.println("-Su placa es: " + auto3.esPlacaValida());
+        
+        
     }
 }
